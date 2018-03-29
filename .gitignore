@@ -1,0 +1,7 @@
+/expensetrackerservice/target/
+/expensetracker-common/target/
+.classpath
+.project
+.gitignore
+.springBeans
+.settings
